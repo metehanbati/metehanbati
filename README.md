@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Analyst
 ------------
-![]([url](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56Y2oyaXJjZnFxeW5tdXZ4bzJ0b2Q1N2RibWQyOTEwam42MWl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif))
+![ ]([url](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56Y2oyaXJjZnFxeW5tdXZ4bzJ0b2Q1N2RibWQyOTEwam42MWl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif))
 
 Hi, my name is Metehan Bati, and I'm a Data Analyst. I'm currently a third-year Management Information Systems student at Cankaya University. I initially started coding with C, but after taking a Data Analyst with Python class at my university, I discovered my interest in the data field. Since then, I've been improving my Data Analyst skills through Coursera courses alongside my university classes.
 
